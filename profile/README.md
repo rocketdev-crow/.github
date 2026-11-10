@@ -26,6 +26,7 @@ Au quotidien, nous créons notre propre écosystème en travaillant sur divers t
 | :--- | :---
 | **[CrowAccounts](https://accounts.crowstudios.eu/)** | *Un compte. Tous tes services CrowStudios.* Authentification unifiée et sécurisée (SSO) pour l'ensemble des services de l'écosystème et même vos apps・. |
 | **[CrowDomain](https://domain.crowstudios.eu/)** | *Ton domaine, rien qu'à toi.* Service de réservation et de pointeur DNS gratuit en `*.crwst.xyz`. |
+| **[CrowLy](https://crowly.crowstudios.eu/)** | *Bientôt, coder va devenir un jeu !* Site WEB d'apprentissage pour coder.  |
 | **[Echorys](https://echorys.eu/)** | *Rythmez la vie de votre établissement.* Bot Discord spécialisé pour les serveurs RP (Collège / Lycée) avec sonneries, alertes et vocal. |
 | **[Echolow](https://echolow.xyz/)** | *L'outil indispensable pour vos serveurs.* Bot Discord axé sur la modération, la sécurité et l'automatisation. | 
 | **[Ghosting](https://ghosting.crowstudios.eu/)** | *Ta position, où tu veux.* Application iOS permettant de simuler sa position GPS. |
